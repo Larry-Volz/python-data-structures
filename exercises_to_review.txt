@@ -1,0 +1,5 @@
+WORTH GETTING STRONGER ON
+vowel_count.py - both my and teacher's way are worthwhile!
+sum_pairs.py
+sum_up_diagonals.py
+reverse_vowels.py!!!  Teacher's solution is SO elegant and it was a great learning experience as to why my solution did not work
